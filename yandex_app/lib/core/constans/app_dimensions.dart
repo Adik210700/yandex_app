@@ -1,11 +1,11 @@
 abstract class AppDimensions {
-  static const double smallPaddinf = 8;
-  static const double extraSmallPaddinf = 12;
-  static const double mediumPaddinf = 16;
-  static const double extraMediumPaddinf = 20;
-  static const double largePaddinf = 24;
+  static const double smallPadding = 8;
+  static const double extraSmallPadding = 12;
+  static const double mediumPadding = 16;
+  static const double extraMediumPadding = 20;
+  static const double largePadding = 24;
   static const double extraLarge = 28;
-  static const double hugePaddinf = 32;
+  static const double hugePadding = 32;
 
   static const double smolBorderRadius = 8;
   static const double mediumBorderRadius = 15;
